@@ -1,0 +1,8 @@
+# Software Requirements
+
+- MATLAB (R2018 or later recommended)
+- Simulink
+
+Toolboxes:
+- Control System Toolbox
+- Signal Processing Toolbox (if used)
